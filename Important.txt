@@ -1,0 +1,61 @@
+This is a very important document
+Test Cards to Receive PAN Data
+
+Card Number	Expiry Date	CVV
+5186001700008785	Any Future Date	Any 3 digits
+5186001700009726	Any Future Date	Any 3 digits
+Card Number	Expiry Date	CVV
+5186001700009908	Any Future Date	Any 3 digits
+5186001700008876	Any Future Date	Any 3 digits
+Card Number	Expiry Date	CVV
+5186001700001434	Any Future Date	Any 3 digits
+Test Cards to Receive Token Data
+
+Card Number	Expiry Date	CVV
+5120350100064537	Any Future Date	Any 3 digits
+5120350100064545	Any Future Date	Any 3 digits
+Card Number	Expiry Date	CVV
+5120350100064552	Any Future Date	Any 3 digits
+5120350100064560	Any Future Date	Any 3 digits
+5120350100064578	Any Future Date	Any 3 digits
+Visa Test Cards
+Test Cards to Receive PAN Data or Token Data
+
+Card Number	Expiry Date	CVV
+4622943127011022	2025 / 12	667
+4622943127011030	2025 / 12	627
+Card Number	Expiry Date	CVV
+4622943127011048	2025 / 12	991
+4622943127011055	2025 / 12	323
+Card Number	Expiry Date	CVV
+4622943127011063	2025 / 12	665
+4622943127011071	2025 / 12	839
+Card Number	Expiry Date	CVV
+4622943127011089	2025 / 12	572
+4622943127010990	2025 / 12	725
+Card Number	Expiry Date	CVV
+4622943127011006	2025 / 12	222
+4622943127011014	2025 / 12	771
+
+Amex Test Cards
+Test Cards to Receive PAN Data or Token Data
+
+Suitable Amex QA test accounts (xx - 37) with static one-time-password configuration for merchants are as follows:
+
+Card Number	Expiry Date	CVV	Email address
+373708623186001	2024 / 12	7777	Masterpass_Merchant_SBX_1@mailinator.com
+Card Number	Expiry Date	CVV	Email address
+372280864074008	2024 / 12	7777	Masterpass_Merchant_SBX_2@mailinator.com
+377222581193005	2024 / 12	7777	Masterpass_Merchant_SBX_3@mailinator.com
+Card Number	Expiry Date	CVV	Email address
+372399427875006	2024 / 12	7777	Masterpass_Merchant_SBX_4@mailinator.com
+371316662951004	2024 / 12	7777	Masterpass_Merchant_SBX_5@mailinator.com
+Discover Test Cards
+Test Cards to Receive PAN Data or Token Data
+
+Card Type	Card Number	Expiry Date	CVV
+Green Card	6011208800050000	2024 / 10	876
+Green Card	6011300000080000	2025 / 09	324
+Green Card	6011000000040125	2025 / 09	324
+Green Card	6011308000010000	2024 / 10	123
+Green Card	6011298600080000	2025 / 09	876
